@@ -1,0 +1,29 @@
+L:\Codigo\SENAI PROJETO\sistema-de-controle-de-clientes\bin\Debug\net6.0\sistema-de-controle-de-clientes.exe
+L:\Codigo\SENAI PROJETO\sistema-de-controle-de-clientes\bin\Debug\net6.0\sistema-de-controle-de-clientes.deps.json
+L:\Codigo\SENAI PROJETO\sistema-de-controle-de-clientes\bin\Debug\net6.0\sistema-de-controle-de-clientes.runtimeconfig.json
+L:\Codigo\SENAI PROJETO\sistema-de-controle-de-clientes\bin\Debug\net6.0\sistema-de-controle-de-clientes.dll
+L:\Codigo\SENAI PROJETO\sistema-de-controle-de-clientes\bin\Debug\net6.0\sistema-de-controle-de-clientes.pdb
+L:\Codigo\SENAI PROJETO\sistema-de-controle-de-clientes\obj\Debug\net6.0\sistema-de-controle-de-clientes.csproj.AssemblyReference.cache
+L:\Codigo\SENAI PROJETO\sistema-de-controle-de-clientes\obj\Debug\net6.0\sistema-de-controle-de-clientes.GeneratedMSBuildEditorConfig.editorconfig
+L:\Codigo\SENAI PROJETO\sistema-de-controle-de-clientes\obj\Debug\net6.0\sistema-de-controle-de-clientes.AssemblyInfoInputs.cache
+L:\Codigo\SENAI PROJETO\sistema-de-controle-de-clientes\obj\Debug\net6.0\sistema-de-controle-de-clientes.AssemblyInfo.cs
+L:\Codigo\SENAI PROJETO\sistema-de-controle-de-clientes\obj\Debug\net6.0\sistema-de-controle-de-clientes.csproj.CoreCompileInputs.cache
+L:\Codigo\SENAI PROJETO\sistema-de-controle-de-clientes\obj\Debug\net6.0\sistema-de-controle-de-clientes.dll
+L:\Codigo\SENAI PROJETO\sistema-de-controle-de-clientes\obj\Debug\net6.0\refint\sistema-de-controle-de-clientes.dll
+L:\Codigo\SENAI PROJETO\sistema-de-controle-de-clientes\obj\Debug\net6.0\sistema-de-controle-de-clientes.pdb
+L:\Codigo\SENAI PROJETO\sistema-de-controle-de-clientes\obj\Debug\net6.0\sistema-de-controle-de-clientes.genruntimeconfig.cache
+L:\Codigo\SENAI PROJETO\sistema-de-controle-de-clientes\obj\Debug\net6.0\ref\sistema-de-controle-de-clientes.dll
+C:\Users\JEAN\Downloads\sistema controle de clientes\bin\Debug\net6.0\sistema-de-controle-de-clientes.exe
+C:\Users\JEAN\Downloads\sistema controle de clientes\bin\Debug\net6.0\sistema-de-controle-de-clientes.deps.json
+C:\Users\JEAN\Downloads\sistema controle de clientes\bin\Debug\net6.0\sistema-de-controle-de-clientes.runtimeconfig.json
+C:\Users\JEAN\Downloads\sistema controle de clientes\bin\Debug\net6.0\sistema-de-controle-de-clientes.dll
+C:\Users\JEAN\Downloads\sistema controle de clientes\bin\Debug\net6.0\sistema-de-controle-de-clientes.pdb
+C:\Users\JEAN\Downloads\sistema controle de clientes\obj\Debug\net6.0\sistema-de-controle-de-clientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JEAN\Downloads\sistema controle de clientes\obj\Debug\net6.0\sistema-de-controle-de-clientes.AssemblyInfoInputs.cache
+C:\Users\JEAN\Downloads\sistema controle de clientes\obj\Debug\net6.0\sistema-de-controle-de-clientes.AssemblyInfo.cs
+C:\Users\JEAN\Downloads\sistema controle de clientes\obj\Debug\net6.0\sistema-de-controle-de-clientes.csproj.CoreCompileInputs.cache
+C:\Users\JEAN\Downloads\sistema controle de clientes\obj\Debug\net6.0\sistema-de-controle-de-clientes.dll
+C:\Users\JEAN\Downloads\sistema controle de clientes\obj\Debug\net6.0\refint\sistema-de-controle-de-clientes.dll
+C:\Users\JEAN\Downloads\sistema controle de clientes\obj\Debug\net6.0\sistema-de-controle-de-clientes.pdb
+C:\Users\JEAN\Downloads\sistema controle de clientes\obj\Debug\net6.0\sistema-de-controle-de-clientes.genruntimeconfig.cache
+C:\Users\JEAN\Downloads\sistema controle de clientes\obj\Debug\net6.0\ref\sistema-de-controle-de-clientes.dll
